@@ -27,3 +27,9 @@ out/
 
 # Package output for maven and Appengine
 target/
+
+# IntelliJ project info
+.idea/
+
+# IntelliJ config files
+*.iml
